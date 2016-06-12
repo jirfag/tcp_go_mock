@@ -1,5 +1,5 @@
-# tcp_go_mock
-Tcp mock written in Go for testing of TCP services
+# About
+Tcp mock written in Golang for testing of TCP services. In can be used from any testing language/framework.
 
 # Filters
 ## How they work
